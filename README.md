@@ -1,8 +1,6 @@
 <div align="center">
 
-# PH — Building Digital Solutions
-
-**Ideia → Tecnologia → Solução.**
+![PH Tecnologia](./banner.svg)
 
 Se existe um problema que pode ser resolvido com tecnologia, a gente encontra
 um jeito de construir a solução.
