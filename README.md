@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Henrique 👋
+# Hi, I'm Pedro Henrique 
 
 **Junior Web Developer** (React · React Native/Expo · JavaScript) from Brasília, Brazil — open to **remote** roles.
 
@@ -8,7 +8,7 @@ I'm a Systems Analysis and Development student (3rd semester, Faculdade Senac) a
 
 ### Featured projects
 
-* **[Job Application Automation](https://github.com/phtechlux/automacao-curriculos)** · *Python · Gmail API · Claude API · Playwright* · 🚧 in progress
+* **[Job Application Automation](https://github.com/phtechlux/automacao-curriculos)** · *Python · Gmail API · Claude API · Playwright* · in progress
   Reads job alerts from Gmail, filters and deduplicates them, tailors my resume to each job with Claude and exports an ATS-friendly PDF — all from a local web panel. A validation step blocks the AI from inventing skills, dates or numbers, and nothing is ever sent automatically.
 
 * **[STAFFgo](https://staffgo.pages.dev)** · *React Native · Expo · Cloudflare Pages* · client project
@@ -16,9 +16,6 @@ I'm a Systems Analysis and Development student (3rd semester, Faculdade Senac) a
 
 * **[Centro Automotivo Cuiabá](https://centroautomotivocuiaba.vercel.app)** · *React · Vite* · client project
   Responsive website for an auto repair shop, with navigation and a quote/contact flow through WhatsApp.
-
-* **Barbearia Miragem** · *React · Vite* · client project
-  Institutional website for a barbershop, adapted to mobile and desktop, sending customers straight to WhatsApp.
 
 * **[ERP System](https://github.com/Jotajhones/sistema_ERP_LI3_FACSENAC)** · *JavaScript · REST API* · team project (Senac)
   B2B management system for a building-materials store, built by a 7-person team. I worked on the front-end — e.g. async logout via `POST /auth/logout` with timeout and failure handling, clearing the token and session data from LocalStorage.
